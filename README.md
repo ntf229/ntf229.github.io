@@ -1,3 +1,4 @@
+
 ### Data Scientist with expertise in computational modeling, data visualization, machine learning, and statistical inference.
 
 ## Education
