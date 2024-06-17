@@ -1,6 +1,4 @@
-# Data Scientist
-
-#### Summary: Data Scientist with expertise in computational modeling, data visualization, machine learning, and statistical inference.
+### Data Scientist with expertise in computational modeling, data visualization, machine learning, and statistical inference.
 
 ## Education
 - Ph.D., Physics | New York University (_May 2024_)								       		
